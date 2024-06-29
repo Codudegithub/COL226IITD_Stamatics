@@ -9,3 +9,8 @@ End result is a custom programming language (toy calculator) having :
 - compilation
 - variables
 - type checking
+
+# Acknowledgements and References
+- Prof Arun Kumar, IITD, for the course COL226 and al material
+- Prof Michael Ryan Clarkson, Cornell, for his wonderful YouTube Playlist on OCaml
+  
