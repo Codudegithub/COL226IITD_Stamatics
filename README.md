@@ -12,5 +12,5 @@ End result is a custom programming language (toy calculator) having :
 
 # Acknowledgements and References
 - Prof Arun Kumar, IITD, for the course COL226 and al material
-- Prof Michael Ryan Clarkson, Cornell, for his wonderful YouTube Playlist on OCaml
+- Prof Michael Ryan Clarkson, Cornell, for his wonderful YouTube Playlist on OCaml, and course CS3110 
   
