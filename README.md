@@ -1,4 +1,4 @@
-# COL226IITD_Stamatics
+# Functional Programming and Type Theory, Stamatics
 Self Learning COL226, 2023-24 Sem-II, CSE IITD as a Stamatics Project. Using the theory to build a Toy Calculator(/Language)
 
 # Project Flow
